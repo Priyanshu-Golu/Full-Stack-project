@@ -1,0 +1,16 @@
+{
+  "name": "full-stack-project",
+  "version": "1.0.0",
+  "description": "Full stack project for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "frontend",
+    "backend"
+  ],
+  "author": "Priyanshu kumar",
+  "license": "ISC"
+}
